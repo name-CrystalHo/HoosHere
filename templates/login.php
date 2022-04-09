@@ -1,0 +1,1 @@
+<a href="<?php echo $client->createAuthUrl(); ?>"><button title="google-login"></button></a>
